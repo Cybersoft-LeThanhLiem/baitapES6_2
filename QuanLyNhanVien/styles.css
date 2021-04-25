@@ -1,0 +1,23 @@
+.input-group {
+    margin-bottom: 1rem;
+}
+
+.input-group-text {
+    width: 100px;
+}
+
+.info {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#info-list {
+    color: yellow;
+}
+
+#info-list ul {
+    list-style-type: none;
+    padding-left: 0;
+}
